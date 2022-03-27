@@ -13,8 +13,8 @@ Gitlab URL: https://git.cs.dal.ca/courses/2022-winter/csci-2170/a4/hans
 
 ## Description
 
-One Paragraph of project description goes here.
-
+This project is named as MailYoda. In this user can register with the specific only domain. Their password will be saved in database as hashed. Users can send email to other users who are registered wih MailYoda. User has the options to send and save encrypted email as well as normal email. Users can see the individual email by clicking on the subject line. The encrypted email 
+will have a flag on them to indicate user that email is encrpted.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
